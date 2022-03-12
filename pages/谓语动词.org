@@ -1,0 +1,12 @@
+* 第一二人称+动词原形/第三人称单数
+* be+Ving
+* 情态动词+do
+* have/has/had + done
+* be + done
+* 例子
+** {{embed ((622b657e-5511-4420-b633-c05fb0f69368))}}
+*** [fn:1] 动名词不能作谓语所以判断此处省略了be动词
+** {{embed ((622b6871-06f5-4e34-ba5d-3bea31eab6f7))}}
+** [[2000年/text3]] ^^When^^ a new movement in art  <span style="color:red;">attains</span>[fn:31] acertain fashion, it  <span style="color:red;">is advisable</span>[fn:32] to find out ^^what^^ its advocates  <span style="color:red;">are aiming</span>[fn:33] at, for, ^^however^^ farfetched and unreasonable their principles  <span style="color:red;">may seem</span>[fn:34] today, it  <span style="color:red;">is</span>[fn:35] possible ^^that^^ in years to come they may  <span style="color:red;">be regarded</span>[fn:36] as normal
+*** 因为有6个谓语动词 只有4个连词 所以判断for也是连词
+*** [fn:32]: it作形式主语

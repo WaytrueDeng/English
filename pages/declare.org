@@ -1,0 +1,37 @@
+* COCA：1749 发音 附注 例句Unit15   恋练有词-1575   Collins
+* 高中 CET4 CET6 考研 TOEFL IELTS   
+declare
+美 [dɪ'klɛr] 英 [dɪ'kleə]
+vt.宣布;声称;申报
+词源： declare 公告 → de-,向下，表强调，-clar,清晰，明确，词源同clear,clarify.引申词义公告。
+声明(79%)，申报(21%)
+柯林斯词典★★★★☆   
+verb.宣称，声称（…为事实）；表明(态度、意图等)
+If you declare that something is true, you say that it is true in a firm, deliberate way. You can also declare an attitude or intention.
+  [V that] [V with quote] [V n] [V n adj] [V pron-refl adj/prep] [Also V n n] [WRITTEN 笔语]
+verb.宣布；宣告
+If you declare something, you state officially and formally that it exists or is the case.
+  [V n] [V n adj] [V n to-inf] [V n n] [V that]
+verb.申报(纳税品、收入等)
+If you declare goods that you have bought in another country or money that you have earned, you say how much you have bought or earned so that you can pay tax on it.
+  [V n]
+相关词组：
+declare for
+[[同义词辨析]]
+announce, declare, proclaim, pronounce, advertise, broadcast, publish
+这些动词均含“宣布，公开”之意。
+[[announce]]: 多指首次宣布大家感兴趣或可满足大家好奇心的事情。
+[[declare]]: 侧重正式就某事清楚明白地宣布。
+[[proclaim]]: 指官方宣布重大事件或施政方针，语体比announce正式。
+[[pronounce]]: 词义与announce, declare接近，但较多用于指法律判决方面的宣布。
+[[advertise]]: 指通过文字和图像资料等的反复宣传而引起公众的注意，有时隐含令人不快或言过其实的意味。
+[[broadcast]]: 专指利用广播或电视传播消息或发表见解。
+[[publish]]: 专指通过报刊或其它媒介向公众公布事情。
+同根词派生
+词根：declare
+* adj.
+* declared 公然的；公开宣布的
+* declarative 宣言的；陈述的，说明的
+* n.
+* declaration （纳税品等的）申报；宣布；公告；申诉书
+* declarer 申报者；宣言者

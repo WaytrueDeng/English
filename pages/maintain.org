@@ -1,0 +1,46 @@
+* COCA：925 发音 附注 例句Unit7   恋练有词-1575   Collins
+* CET4 CET6 考研 TOEFL IELTS   
+maintain
+美 [men'ten] 英 [meɪn'teɪn;mən'teɪn]
+vt.维持,保持;维修,保养;坚称;赡养
+词源： maintain 维持，保持，保养 → 来自古法语maintenir,保持，维持，来自拉丁语manu tenere,握在手上，控制，来自manu,手，词源同manual,tenere,握住，词源同tenure,contain.引申多种词义。
+维持(62%)，维修(16%)，坚持(10%)，保养(10%)，断言(2%)
+柯林斯词典★★★★☆   
+verb.维持；保持
+If you maintain something, you continue to have it, and do not let it stop or grow weaker.
+  [V n]
+verb.断言；宣称；坚称
+If you say that someone maintains that something is true, you mean that they have stated their opinion strongly but not everyone agrees with them or believes them.
+  [V that] [V with quote] [V n]
+verb.保持，维持（在某一比率或水平上）
+If you maintain something at a particular rate or level, you keep it at that rate or level.
+  [V n at n]
+verb.维修；保养
+If you maintain a road, building, vehicle, or machine, you keep it in good condition by regularly checking it and repairing it when necessary.
+  [V n] [V-ed]
+verb.供养；赡养
+If you maintain someone, you provide them with money and other things that they need.
+  [V n]
+[[同义词辨析]]
+[[conserve]], store, save, maintain, preserve
+这组词都有“保存，储藏”的意思，其区别是：
+[[conserve]]: 较正式用词，指小心地使用难以补充的资源或贵重物，免遭浪费或毁坏，以备不时之需。
+[[store]]: 普通用词，指将物品存放，以备将来使用。
+[[save]]: 普通用词，指尽量少用，以争取数量上有所增加。
+[[maintain]]: 指保持原样，不增不减
+[[preserve]]: 侧重将物品完好无损地保存下来。
+* allege, testify, affirm, maintain, assert, claim
+这组词都有“断言，声称”的意思，其区别是：
+[[allege]]: 多指无真凭实据，不提供证据的断言或宣称。
+[[testify]]: 多指在法庭作证，庄严地宣称自己所说属实。
+[[affirm]]: 侧重在作出断言时表现出的^^坚定与不可动摇的态度^^。
+[[maintain]]: 与assert近义，但前者指坚决维护某种主张或观点。
+assert: 主观意味强，指^^自认为某事就是如此，而不管事实如何^^。
+claim: 可与assert换用，但语气弱一些，侧重指行为自己的^^权利^^提出要求他人承认。
+同根词派生
+词根：maintain
+* adj.
+* maintainable 可维持的；可主张的；可维修的
+* n.
+* maintenance 维护，维修；保持；生活费用
+* maintainer 维修工；保持器

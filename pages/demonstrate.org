@@ -1,0 +1,54 @@
+* COCA：1386 发音 附注 例句Unit11   恋练有词-1575   Collins
+* CET4 CET6 考研 TOEFL IELTS GRE   
+demonstrate
+美 ['dɛmən'stret] 英 ['demənstreɪt]
+vt.证明,证实;论证;显示,展示;演示 vi.示威游行
+词源： demonstrate 证实，展示 → de-,向下，表强调，-monster,展示，警告，词源同monitor,monster.
+证明(43%)，演示(34%)，示范(15%)，示威(8%)
+柯林斯词典★★★☆☆   
+verb.证明；论证；表明；说明
+To demonstrate a fact means to make it clear to people.
+  [V n] [V that] [V to n that] [V wh]
+verb.显示；表露
+If you demonstrate a particular skill, quality, or feeling, you show by your actions that you have it.
+  [V n]
+verb.示威；进行示威游行（或集会）
+When people demonstrate, they march or gather somewhere to show their opposition to something or their support for something.
+  [V against n] [V for n] [V]
+verb.示范；演示
+If you demonstrate something, you show people how it works or how to do it.
+  [V n] [V n to n] [V how]
+同义词辨析
+demonstrate, manifest, display, show, exhibit
+这组词都有“显示、显露、展现”的意思，其区别是：
+[[demonstrate]]: 指明显地表露感情。也指用实例、实验推理等手段表演证明，或论证某一问题。
+[[manifest]]: 书面正式用词，指明确地表明。
+[[display]]: 多指将某物陈列在显眼之处以便让发现其优点，侧重有意识地显示。
+[[show]]: 最普通用词，泛指任何有意或无意地把东西给别人看的行为。
+[[exhibit]]: 指公开或正式地展示，以便引人注目或让人检查。
+* demonstrate, illustrate
+这组词都有“说明”的意思，其区别是：
+[[demonstrate]]: v.多指通过具体动作或物体进行演示、示范、表演、展示等以达到说明或解释的目的。
+ • This salesman demonstrated how to cook with a pressure cooker.   这个推销员当众演示如何用压力锅煮东西。
+[[illustrate]]: v.强调通过举例、列图表或比较等方式来说明道理。
+ • The teacher illustrated the history lesson by telling a story about George Washington.   那个老师通过乔治·华盛顿的故事来讲述他的历史课。
+* certify, demonstrate, prove, testify, establish
+这组词都有“证明、证实”的意思，其区别是：
+[[certify]]: 较正式用词，多指有签字盖章的、合符法律程序的书面证明。
+[[demonstrate]]: 指通过推理、辩论、实验或以实例来证明事物的正确与否。常用于理论、学说、定律等的证明上。
+[[prove]]: 普通用词，指通过某种手段或方式提供证据以证实或证明某事物真实与否，某结论正确与否等情况。
+[[testify]]: 较正式用词，既指出庭作证，提供证据，又指为某人或某事的是否真实提供证据或证明。
+[[establish]]: 指证实事实或理论的真实性与正确性，使其能长期存在或为人们所接受。
+同根词派生
+词根：demonstrate
+* adj.
+* [[demonstrative]] 说明的；证明的；公开表露感情的
+* demonstrable 可论证的；显而易见的
+* adv.
+* demonstrably 可论证地；明确地
+* demonstratively 论证地
+* n.
+* demonstration 示范；证明；示威游行
+* demonstrator 示威者；论证者；指示者；证明者
+* demonstrative 指示词
+* demonstrability 论证可能性

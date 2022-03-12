@@ -1,0 +1,28 @@
+* 常见连词
+** 并列连词
+*** and or
+*** but yet
+** 从属连词
+*** W开头的特殊疑问词 + that
+* 例子
+** ^^While^^(80%表达强烈对比)  <span style="color:red;">talking</span>[fn:1] to you,your could-be employer is  <span style="color:red;">deciding</span> ^^whether^^ your education, your experience, ^^and^1^^ other qualifications  <span style="color:red;">will pay</span> him to employ you ^^and^2^^ your "wares"^^and^3^^ abilities  <span style="color:red;">must be displayed</span> in an orderly ^^and^4^^ reasonably connected manner.
+:PROPERTIES:
+:id: 622b657e-5511-4420-b633-c05fb0f69368
+:END:
+*** 第一件事找到所有连词: 两个句子之间必须得有连词,连词得连接两个性质相同的(从后往前找效率更高些)
+**** and²连接两个句子
+***** your experience, ^^and^1^^ other qualifications  <span style="color:red;">will pay</span> him to employ you
+***** your "wares"^^and^3^^ abilities  <span style="color:red;">must be displayed</span> in an orderly ^^and^4^^ reasonably connected manner.
+*** 第二件事找到所有动词
+*** 当从属连词的所连接的从句和主语一致且从句的谓语动词含有be动词可以省略从句的中的主语以及be动词 [[省略规则]]
+**** eg: Though he was blamed, he never changed his mind → Though blamed, he never changed his mind.
+** In(介词) making a blueprint for a job,  <span style="color:red;">begin</span> with(介词) yourself, ^^for^^(连词翻译成因为相当于Because,介词翻译成为了) ^^when^^ you  <span style="color:red;">know</span> exactly ^^what^^ you  <span style="color:red;">have to</span> offer, you  <span style="color:red;">can</span> intelligently  <span style="color:red;">plan</span> ^^where^^(直接连接动词不定式任务已经完成) to sell your services.
+:PROPERTIES:
+:id: 622b6871-06f5-4e34-ba5d-3bea31eab6f7
+:END:
+** You  <span style="color:red;">can make</span> a mental blueprint of a desire ^^as^^(当连词时翻译成像...一样,而作为是当介词) you  <span style="color:red;">would  make</span> a blueprint of a house, ^^and^^ each of us is continually  <span style="color:red;">making</span> these blueprints in the general routine of everyday living.
+:PROPERTIES:
+:id: 622b68c1-a040-4ed1-abd3-b0f96a730ecf
+:END:
+* [[总结]] [[Mar 11th, 2022]]
+** 只有学会语法才能正确理解词语的意思

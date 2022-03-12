@@ -1,0 +1,51 @@
+* COCA：1093 发音 附注 例句Unit14   恋练有词-Collins
+* 高中 CET4 CET6 考研 TOEFL   
+admit
+美 [əd'mɪt] 英 [əd'mɪt]
+vt.承认,供认;接收,招收;准入
+词源： admit 同意 → ad-,去，往，-mit,发送，送出，词源同mission,使团，使命。原指准许进出，后指同意。
+承认(94%)，允许(3%)，容纳(2%)，给…进入的权利(1%)
+柯林斯词典★★★★☆   
+verb.（常指不情愿地）承认，供认
+If you admit that something bad, unpleasant, or embarrassing is true, you agree, often unwillingly, that it is true.
+  [V that] [V to -ing/n] [V -ing] [V n] [V with quote]
+verb.接受（入院）；收治
+If someone is admitted to hospital, they are taken into hospital for treatment and kept there until they are well enough to go home.
+  [be V-ed to n] [be V-ed] [usu passive]
+verb.准许…加入；接纳；招收
+If someone is admitted to an organization or group, they are allowed to join it.
+  [be V-ed to n] [V n]
+verb.准许…进入
+To admit someone to a place means to allow them to enter it.
+  [V n] [V n to n]
+同义词辨析
+acknowledge, assigned, allocate, allot, admit, confess
+[[acknowledge]]: 表承认某事可以承担责任
+[[assigned]]: 用途明确，但“指定”意味强，常常暗示分配人的武断性
+[[allocate]]: 正式用词，尤指政府部门拨出定额款项的行为
+[[allot]]: 指完整或定量的东西分为若干份来分配，不强调公平性和数量上的平均
+[[admit]]: 表被迫承认做过某事
+[[confess]]: 承认一些不好的事情，常有“忏悔”之意
+* acknowledge, admit, confess, recognize, concede
+这些动词均含“承认”之意。
+[[acknowledge]]: 通常指公开承认某事的真实情况或自己的过错。
+[[admit]]: 强调因外力或良心驱使或经判断而明确承认，多含不情愿或被迫意味。
+[[confess]]: 语气较强，着重承认自己意识到的错误或罪行，含坦白忏悔的意味。
+[[recognize]]: 作“承认”解时，系书面用词，主要指合法的或外交上的承认，也指公认。
+[[concede]]: 指在事实与证据面前勉强或不得不承认。
+* take, accept, admit, receive
+这组词都有“接受、接纳”的意思，其区别是：
+[[take]]: 与receive同意，是receive的日常用法，侧重不带主观意愿地收下或接受。
+[[accept]]: 强调主动地或自愿地接受，或者说，经过考虑后同意接受。
+[[admit]]: 作“接受”讲时，强调准许或批准。
+[[receive]]: 着重仅仅接到或收到这一支轮船或事实，而不含采取主动或积极行动的意思。
+同根词派生
+词根：admit
+* adj.
+* [[admissible]] 可容许的；可采纳的；可接受的
+* admissive 认可的；容许的
+* admittable 具有进入的资格的
+* n.
+* admission 承认；入场费；进入许可；坦白；录用
+* admittance 进入；入场权；通道
+* admissibility 可容许；有入场的资格

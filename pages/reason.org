@@ -1,0 +1,86 @@
+* COCA：360 发音 附注 例句Unit17   恋练有词-1575   Collins
+* 高中 CET4 CET6 考研   
+reason
+美 [ˈrizən] 英 ['riːz(ə)n]
+n.理由,原因;理性,理智 vt.推断,分析(that) 
+词源： reason 原因，理由，推理，推论 → 来自古法语raison,原因，理由，思考，来自拉丁语rationem,思考，考虑，动机，来自PIE*rei,思考，辩理，词源同rate,read.
+释义：原因(53%)，理由(31%)，推理(5%)，理性(5%)，理智(4%)，劝说(1%)，理论(1%)
+词性：名词(96%), 动词(4%)
+柯林斯词典★★★★★   
+n.原因；理由；动机
+The reason for something is a fact or situation which explains why it happens or what causes it to happen.
+  [usu with supp]
+n.理由；确凿的证据
+If you say that you have reason to believe something or to have a particular emotion, you mean that you have evidence for your belief or there is a definite cause of your feeling.
+  [usu N to-inf]
+n.理性；理智
+The ability that people have to think and to make sensible judgments can be referred to as reason .
+verb.See also:reasoned；
+reasoning；
+推理；推论；推断
+If you reason that something is true, you decide that it is true after thinking carefully about all the facts.
+  [V that] [V with quote]
+phrase.（常用来暗指不赞成某人的所作所为）只有自己知道为什么，出于自身的理由
+If you do not know why someone did something, you can say that they did it for reasons best known to themselves. You usually use this expression when you do not agree with what they did.
+  [PHR with cl]
+phrase.因为；由于；由…引起；以…为理由
+If one thing happens by reason of another, it happens because of it.
+  [PHR n] [FORMAL 正式]
+phrase.听从劝告；理智行事
+If you try to make someone listen to reason, you try to persuade them to listen to sensible arguments and be influenced by them.
+  [V inflects]
+phrase.无缘无故；莫名其妙；没有理由
+If you say that something happened or was done for no reason ,for no good reason, or for no reason at all, you mean that there was no obvious reason why it happened or was done.
+  [PHR with cl]
+phrase.活着的理由；生存的原因
+If a person or thing is someone's reason for living or their reason for being, they are the most important thing in that person's life.
+  [usu poss PHR]
+phrase.不知为何；不知什么原因
+If you say that something happened or is true for some reason, you mean that you know it happened or is true, but you do not know why.
+  [PHR with cl] [vagueness]
+phrase.正当的；合乎情理的；理智范围内的
+If you say that you will do anything within reason, you mean that you will do anything that is fair or reasonable and not too extreme.
+  [PHR with cl]
+* rhyme or reason→see: rhyme；
+* to reason→see: ；
+it stands to reason→see: stand；
+相关词组：
+reason with
+同义词辨析
+argue, reason, discuss, dispute, debate, quarrel
+这组词都有“辩论，争论，说理”的意思，其区别是：
+[[argue]]: 指提出理由或证据为自己或自己一方的看法或立场辩护，着重说理、论证和企图说服。
+[[reason]]: 指据理力争以说服对方或求得对问题作更深入的研究。
+[[discuss]]: 最常用词，指就某一或某些问题表明观点、看法等，以便统一认识，解决问题。
+[[dispute]]: 侧重对分歧进行激烈或热烈的争论或争辩，带一定感情色彩，常隐含“各持已见”或“争论不休”意味。
+[[debate]]: 侧重指意见等对立的双方之间正式或公开的争辩。
+[[quarrel]]: 指两人之间或两个团体之间不友好的、吵吵嚷嚷地大声争论某事，尤指“吵嘴、吵架”。
+* cause, reason, excuse
+这组词都有“原因”的意思，其区别是：
+[[cause]]: 指直接导致事情发生的原因，与所发生的事个有因果关系。
+[[reason]]: 强调指从逻辑推理上得出的结论性原因，不是直接说明起因。
+[[excuse]]: 指为自己辩解，希望得到谅解时所提出的种种理由，是借口性的理由。
+* think, reason, muse, speculate, meditate, deliberate, reflect
+这组词都有“思考、判断、思索”的意思，其区别是：
+[[think]]: 一般用词，指开动脑筋形成看法或得出结论的脑力活动。不着重结论是否正确，见解是否有用。
+[[reason]]: 指根据资料、证据或事实进行推断，作出结论或判断的逻辑思维活动。
+[[muse]]: 通常指漫无目的地猜想。
+[[speculate]]: 指推论过程，隐含在证据不足的基础上作出推测或设想。
+[[meditate]]: 语气较强，指认真地长时间集中精力进行思考。
+deliberate: 指缓慢、按部就班地作仔细而认真的思考或判断。
+[[reflect]]: 指回想或回顾，侧重认真而冷静地反复地思考某个问题，尤指对已发生事情的思索。
+同根词派生
+词根：reason
+* adj.
+* reasonable 合理的，公道的；通情达理的
+* reasoning 推理的
+* reasoned 详尽论述的；理由充分的；合乎逻辑的
+* reasonless 不合理的；不理智的，无理性的；无推理能力的
+* adv.
+* reasonably 合理地；相当地；适度地
+* n.
+* reasoning 推理；论证；评理
+* reasonableness 合理；妥当
+* v.
+* reasoning 推论；说服（reason的ing形式）
+* reasoned 说服；推断（reason的过去分词）
